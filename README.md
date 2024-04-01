@@ -1,4 +1,4 @@
-#### Reports of Newman of Project StudentDetails
+## Reports of Newman of Project StudentDetails
 ![WhatsApp Image 2024-04-01 at 3 33 39 PM](https://github.com/SaimaNova12/Project_JMeter-1/assets/76209488/38b00d8a-d306-48a3-bc49-6149106eeb72)
 ![WhatsApp Image 2024-04-01 at 3 34 03 PM](https://github.com/SaimaNova12/Project_JMeter-1/assets/76209488/0786ee12-f688-4bcd-9582-1ba24db6df81)
 ![WhatsApp Image 2024-04-01 at 3 34 40 PM](https://github.com/SaimaNova12/Project_JMeter-1/assets/76209488/ccc2783d-c7b4-469b-b3ae-4b6e257ca999)
